@@ -22,7 +22,7 @@ This project aims to investigate the inflation rates in Turkey and compare them 
 ## Files
 
 - `cimriScript.py`: A script that uses Selenium to extract the required data from the target website. (www.cimri.com)
-- `cimriScript.py`: A script that uses Selenium to extract the required data from the target website. (www.cimri.com)
+- `akakceScript.py`: A script that uses Selenium to extract the required data from the target website. (www.akakce.com)
 - `data_analysis.py`: A script that imports, cleans, analyzes, and visualizes the data.
 - `cimriProducts.csv`: CSV file containing the product data gathered from the target website. (www.cimri.com)
 - `akakceProducts.csv`: CSV file containing the product data gathered from the target website. (www.akakce.com)
